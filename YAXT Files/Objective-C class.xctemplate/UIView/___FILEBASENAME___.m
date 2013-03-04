@@ -1,6 +1,7 @@
 //
 //  ___FILENAME___
 //  http://github.com/tang3w/___PROJECTNAME___
+//
 //  Copyright (c) ___YEAR___, ___FULLUSERNAME___. All rights reserved.
 //
 //  Licensed under the Apache License, Version 2.0 (the "License");
@@ -28,14 +29,5 @@
     }
     return self;
 }
-
-/*
-// Only override drawRect: if you perform custom drawing.
-// An empty implementation adversely affects performance during animation.
-- (void)drawRect:(CGRect)rect
-{
-    // Drawing code
-}
-*/
 
 @end
