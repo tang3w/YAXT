@@ -1,6 +1,6 @@
-//  ___FILENAME___
+// ___FILENAME___
 //
-//  Copyright (c) ___YEAR___ ___FULLUSERNAME___
+// Copyright (c) ___YEAR___ ___FULLUSERNAME___
 //
 // The MIT License (MIT)
 //
